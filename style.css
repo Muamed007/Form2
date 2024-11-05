@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+ul{
+    background-color: aliceblue;
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+ul li{
+    position: relative;
+    display: inline-block;
+    margin-right: 10px;
+}
+.nav {
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+
+.Copyright{
+    text-align: center;
+}
+body{
+    background-color: darkgoldenrod;
+}
